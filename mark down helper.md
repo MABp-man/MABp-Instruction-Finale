@@ -38,7 +38,10 @@
 
 Картинка в текст вставляется аналогично,
 
-![markdownlogo](https://cdn-blog.adafruit.com/uploads/2022/03/Untitled-7.jpg)
+![markdownlogo](Untitled-7.jpg)
 
 только в начале ставится восклицательный знак:
 * \!\[markdownlogo](https://cdn-blog.adafruit.com/uploads/2022/03/Untitled-7.jpg)
+
+Если файл картинки вложен в папку с рабочим документом, вместо URL картинки - вписывается только имя файла: 
+* \!\[markdownlogo](Untitled-7.jpg)
